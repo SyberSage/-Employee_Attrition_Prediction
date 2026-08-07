@@ -3,6 +3,8 @@
 A data science project predicting employee attrition using the IBM HR Analytics dataset,
 built with pandas and scikit-learn, and deployed as an interactive Streamlit app.
 
+**Live app:** https://employee-attrition-prediction-sybersage.streamlit.app/
+
 ## Project Overview
 
 This project explores two prediction targets from the dataset:
